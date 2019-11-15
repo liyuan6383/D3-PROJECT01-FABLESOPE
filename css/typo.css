@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mukta&display=swap');
+h1 {
+font-family: 'Poiret One', cursive;
+font-size: 2em;
+color: #F8F8FF
+
+}
+h2{
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 2em;
+  color:#8B0000;
+}
+
+p {
+  font-family: 'Mukta', sans-serif;
+  height: 2;
+  color: #330000;
+}

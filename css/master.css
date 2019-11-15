@@ -1,0 +1,79 @@
+
+img {
+  width:100%;
+}
+
+header{
+  border-style: solid;
+  border-color: #FFF0F5;
+
+  min-height: 80vh;
+background-image: url(image/image01.jpg);
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+border-color: red;
+font-family: 'Fascinate Inline', cursive;
+font-size: 5em
+}
+
+body{
+
+  background-image: linear-gradient(#FFFAFA,#663366);
+}
+
+
+
+.moral {
+  border: 2px solid #8B4513;
+  border-radius: 4px;
+  padding :4px;
+  font-size: 1.5em;
+  font-family: fantasy;
+}
+
+section {
+  min-height: 80vh;
+}
+
+.content {
+  max-width: 840px;
+}
+
+#fable01 {
+  background: #E9967A;
+  padding-top: 50px;
+  min-height: 80vh;
+display: inline-flex;
+align-items: center;
+justify-content: center;
+}
+
+#fable01 h2 {
+  font-size: 80px;
+}
+
+#fable02 {
+  background: #FF8C00;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#fable02 h2 {
+  font-size: 80px;
+}
+
+#fable03 {
+  background: #006600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 33px;
+}
+
+#fable03 h2 {
+  font-size: 80px;
+
+}
